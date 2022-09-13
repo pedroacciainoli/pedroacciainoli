@@ -1,8 +1,7 @@
 ## Hi, I'm Pedro Acciainoli! :)
 
 
-- 🔭 I’m currently studying on Labenu
-- 🌱 I’m currently learning Swift for IOS development
+- 🌱 I’m currently learning Java development
 - 🤗 I like to experience new learnings and collaborate with knowledge sharing.
 - 😄 Pronomes: Ele/Dele.
 
