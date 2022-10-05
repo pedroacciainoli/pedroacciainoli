@@ -3,12 +3,13 @@
 <img width="100%" height = "250px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner1.gif" alt="cover" />
 </div>
 
-# Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'>
+# Hi! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'>
 <p align='center'>
 
 
 </p>
-<div size='20px'> Hi! My name is Pedro Acciainoli. Thank You for taking the time to view my GitHub Profile 😄
+<div size='20px'>Hi, I'm Pedro Acciainoli! :)<br>
+Thank You for taking the time to view my GitHub Profile!
 </div>
 
 <h2> About Me</h2>
