@@ -8,15 +8,13 @@
 
 
 </p>
-<div size='20px'>Hi, I'm Pedro Acciainoli! :)<br>
+<div size='20px'>Hi, I'm Luis Pedro de Moura Acciainoli! :)<br>
 Thank You for taking the time to view my GitHub Profile!
 </div>
 
 <h2> About Me</h2>
 
 
-
-- 🌱 I’m currently learning Java, Spring Boot, Docker 
 
 - 👯 I’m looking to collaborate on Projects
 
@@ -63,3 +61,4 @@ Thank You for taking the time to view my GitHub Profile!
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroacciainoli&theme=dark" />
 </a>
+
